@@ -1,5 +1,7 @@
 # jekyll-theme-onion
 
+![Screenshot](/screenshot.png?raw=true "Screenshot")
+
 Jekyll theme inspired by [**TOR**](https://en.wikipedia.org/wiki/Tor_(network)) network.
 
 This theme has one set of colors and that is dark background with shades of purple:
@@ -56,9 +58,9 @@ _sass
 
 assets
 - css
-- - main.scss is a main scss file which imports all other parts from _sass.
+  - main.scss is a main scss file which imports all other parts from _sass.
 - flags
-- - gb.svg, mk.svg, se.svg are icons used for displaying language selector.
+  - gb.svg, mk.svg, se.svg are icons used for displaying language selector.
 - minima-social-icons.svg are all social icon vectors.
 - onion-logo.png is a Onion network logo.
 - sample-photo.jpg is a free sample photo.
