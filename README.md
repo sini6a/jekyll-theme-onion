@@ -49,6 +49,8 @@ _includes:
 
 _layouts:
 - default.html is a default layout for displaying websites.
+- about.html is same as default layout but exists for compatibility reasons.
+- home.html is a layout which displays posts.
 - post.html is a post layout for displaying posts. It includes navigation of the bottom of the page such as *Go Home* button and *To Top*. 
 
 _sass
