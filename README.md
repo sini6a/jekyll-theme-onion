@@ -1,5 +1,7 @@
 # jekyll-theme-onion
 
+![Screenshot](/screenshot.png?raw=true "Screenshot")
+
 Jekyll theme inspired by [**TOR**](https://en.wikipedia.org/wiki/Tor_(network)) network.
 
 This theme has one set of colors and that is dark background with shades of purple:
