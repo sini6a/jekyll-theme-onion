@@ -58,9 +58,9 @@ _sass
 
 assets
 - css
-- - main.scss is a main scss file which imports all other parts from _sass.
+  - main.scss is a main scss file which imports all other parts from _sass.
 - flags
-- - gb.svg, mk.svg, se.svg are icons used for displaying language selector.
+  - gb.svg, mk.svg, se.svg are icons used for displaying language selector.
 - minima-social-icons.svg are all social icon vectors.
 - onion-logo.png is a Onion network logo.
 - sample-photo.jpg is a free sample photo.
