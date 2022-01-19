@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{%- if page.title -%}
+<h1 class="page-heading">{{ page.title }}</h1>
+{%- endif -%}
+
+{{ content }}
+
+<div style="display: flex; flex-wrap:wrap;">
+    <span style="flex-basis: 50%;">
+        <a href="/">← Go Home</a>
+    </span>
+    <span style="flex-basis: 50%;">
+        <a href="#" style="float: right;">↑ Back to top</a>
+    </span>
+</div>
+  

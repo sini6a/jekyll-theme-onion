@@ -1,0 +1,10 @@
+<footer>
+    <div class="copyright">
+      {%- if site.onion.crypto_wallets.bitcoin -%}BTC: {{ site.onion.crypto_wallets.bitcoin }}<br>{%- endif -%}
+      {%- if site.onion.crypto_wallets.etherium -%}ETH: {{ site.onion.crypto_wallets.etherium }}<br>{%- endif -%}
+      {{ site.title }} | MIT License - {{ 'now' | date: "%Y" }}
+    </div>
+    <div class="social-links">
+      {%- include social.html -%}
+    </div>
+</footer>
